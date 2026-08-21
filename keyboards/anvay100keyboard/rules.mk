@@ -1,0 +1,5 @@
+MCU 					= RP2040
+BOOTLOADER 				= rp2040
+ENCODER_ENABLE 			= yes
+SPI_DRIVER_REQUIRED 	= yes
+CUSTOM_MATRIX 			= lite
